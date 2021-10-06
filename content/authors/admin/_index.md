@@ -73,5 +73,3 @@ highlight_name: true
 Hello! I'm a linguist who studies the variability inherent in language. In my research, I analyze statistical patterns in large bodies of speech data in order to better understand how and why people talk differently.
 
 I am a co-director of the [NYU Sociolinguistics Lab](https://wp.nyu.edu/sociolab/); an Area Editor in the area of Sociolinguistics and Anthropological Linguistics for [*Linguistics Vanguard*](https://www.degruyter.com/journal/key/lingvan/html?lang=en); and one of the academic leads of [Our Dialects](https://www.ourdialects.uk/), an online atlas of British English regional dialects. In addition to publishing academic articles and books on sociolinguistics, language variation, language change, dialectology, and names, I have also served as an expert consultant for media pieces on regional dialects, language change, personal names, and how speakers’ accents can change over time.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
