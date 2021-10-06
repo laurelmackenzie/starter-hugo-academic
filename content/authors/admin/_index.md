@@ -46,9 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/laurelem
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=u95qn2IAAAAJ&hl=en&oi=ao
+#- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=u95qn2IAAAAJ&hl=en&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: https://www.dropbox.com/s/koya6jntn83v6sv/MacKenzie_CV.pdf?dl=0
+# - icon: cv
+#   icon_pack: ai
+#   link: https://www.dropbox.com/s/koya6jntn83v6sv/MacKenzie_CV.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
