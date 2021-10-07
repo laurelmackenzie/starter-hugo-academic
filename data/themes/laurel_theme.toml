@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Laurel"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(255, 0, 60)"
+
+# Menu
+menu_primary = "rgb(255, 0, 60)"
+menu_text = "#fff"
+menu_text_active = "#1b5e20"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
