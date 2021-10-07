@@ -8,8 +8,8 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: 'http://www.nyu.edu'
-    weight: 10    
+    url: 'https://www.dropbox.com/s/koya6jntn83v6sv/MacKenzie_CV.pdf?dl=0'
+    weight: 20    
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
