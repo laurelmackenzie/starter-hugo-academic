@@ -23,7 +23,7 @@ twitter: ''
 email: laurel.mackenzie@nyu.edu
 phone: (212) 998-7958
 address:
-  street: 10 Washington Place
+  street: Room 305, 10 Washington Place
   city: New York
   region: NY
   postcode: '10012'
@@ -38,10 +38,10 @@ address:
 #  - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com/laurel-mackenzie'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
