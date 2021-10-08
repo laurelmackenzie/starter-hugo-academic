@@ -7,9 +7,8 @@ summary: ''
 authors:
 - Laurel MacKenzie
 tags:
-- '"methods"'
 categories: []
-date: -01-01
+date: 2018-01-01
 lastmod: 2021-10-07T16:20:17-04:00
 featured: false
 draft: false
