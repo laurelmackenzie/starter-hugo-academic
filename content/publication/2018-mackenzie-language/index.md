@@ -7,13 +7,12 @@ summary: ''
 authors:
 - Laurel MacKenzie
 tags:
-- '"pedagogy"'
-- '"10222-Names"'
 categories: []
-date: '2018-01-01'
+date: '2018-12-01'
 lastmod: 2021-10-07T16:20:16-04:00
 featured: false
 draft: false
+doi: 'http://doi.org/10.1353/lan.2018.0068'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +31,6 @@ projects: []
 publishDate: '2021-10-07T20:20:16.502681Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'This article describes how students can be introduced to the basics of linguistic analysis using personal, product, and place names as data. I outline several areas of linguistics that can be effectively taught at an introductory level through name data and provide examples of accompanying in-class and take-home exercises. Throughout the article, I demonstrate that the everyday familiarity of names and the ready availability of name data combine to create a class that not only engages students but also teaches them practical data-analysis skills.'
 publication: '*Language*'
 ---
