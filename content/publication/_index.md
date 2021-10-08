@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Papers, presentations, and posters
 cms_exclude: true
 
 # View.
