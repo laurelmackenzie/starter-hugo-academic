@@ -36,6 +36,6 @@ publication_types:
 abstract: 'One common historical development in languages with distinctively nasalized vowels is the
 excrescence of coda velar nasals in place of nasalized vowels. For example, the dialect of French spoken
 in the southwestern part of France (Midi French) is characterized by words ending in the velar nasal [ŋ]
-where Parisian French has nasalized vowels and no final nasal "consonant" '
+where Parisian French has nasalized vowels and no final nasal consonant ([savɔ̃]~[savɔŋ] "soap").'
 publication: '*UC Berkeley PhonLab Annual Report 3*'
 ---
