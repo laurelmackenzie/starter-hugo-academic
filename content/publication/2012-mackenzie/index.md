@@ -31,5 +31,5 @@ publishDate: '2021-10-07T20:20:14.852389Z'
 publication_types:
 - '7'
 abstract: ''
-publication: ''
+publication: 'Doctoral dissertation, University of Pennsylvania'
 ---
