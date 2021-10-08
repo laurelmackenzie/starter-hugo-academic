@@ -12,7 +12,7 @@ date: '2017-12-20'
 lastmod: 2021-10-07T16:20:16-04:00
 featured: false
 draft: false
-doi: https://doi.org/10.1515/lingvan-2017-0005
+doi: 'https://doi.org/10.1515/lingvan-2017-0005'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
