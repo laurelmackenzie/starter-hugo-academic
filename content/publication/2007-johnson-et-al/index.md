@@ -56,5 +56,5 @@ consonant and to rely primarily on visual cues in a more direct test of the visu
 vowels and velar nasals. Taken together, the results of these four experiments suggest that excrescent
 coda nasals tend to be velar because nasalized vowels are both acoustically and visually similar to velar
 nasals."
-publication: '*UC Berkeley PhonLab Annual Report 3*'
+publication: '*UC Berkeley PhonLab Annual Report 3*, 529–561'
 ---

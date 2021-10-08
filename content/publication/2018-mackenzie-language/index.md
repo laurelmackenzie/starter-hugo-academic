@@ -32,5 +32,5 @@ publishDate: '2021-10-07T20:20:16.502681Z'
 publication_types:
 - '2'
 abstract: 'This article describes how students can be introduced to the basics of linguistic analysis using personal, product, and place names as data. I outline several areas of linguistics that can be effectively taught at an introductory level through name data and provide examples of accompanying in-class and take-home exercises. Throughout the article, I demonstrate that the everyday familiarity of names and the ready availability of name data combine to create a class that not only engages students but also teaches them practical data-analysis skills.'
-publication: '*Language*'
+publication: '*Language* 94(4): e1–e18'
 ---

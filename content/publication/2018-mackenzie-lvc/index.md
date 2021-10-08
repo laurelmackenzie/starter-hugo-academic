@@ -44,5 +44,5 @@ its plural form. I argue that the way these two factors affect the variation is
 reminiscent of the patterns seen in children’s first language acquisition errors,
 providing a potential source for the variation and underscoring the importance of
 considering morphophonological factors when accounting for patterns of change.'
-publication: '*Language Variation and Change*'
+publication: '*Language Variation and Change* 30(2): 147–174'
 ---
