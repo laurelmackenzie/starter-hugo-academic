@@ -39,6 +39,8 @@ in the southwestern part of France (Midi French) is characterized by words endin
 where Parisian French has nasalized vowels and no final nasal consonant ([savɔ̃]~[savɔŋ] "soap"). More
 generally, there is a cross-linguistic tendency for the unmarked place of articulation for coda nasals, and
 perhaps also for stops, to be velar. In four experiments, we explored why the cross-linguistically
-unmarked place for the excrescent nasal is velar. '
+unmarked place for the excrescent nasal is velar. The experiments test Ohala's (1975) acoustic
+explanation: that velar nasals, having no oral antiformants, are acoustically more similar to nasalized
+vowels than are bilabial or alveolar nasals.'
 publication: '*UC Berkeley PhonLab Annual Report 3*'
 ---
