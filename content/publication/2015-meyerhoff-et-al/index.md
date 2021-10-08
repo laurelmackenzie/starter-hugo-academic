@@ -9,10 +9,8 @@ authors:
 - Erik Schleef
 - Laurel MacKenzie
 tags:
-- '"methods"'
-- '"texts-sociolinguistics"'
 categories: []
-date: '2015-01-01'
+date: '2015-07-08'
 lastmod: 2021-10-07T16:20:15-04:00
 featured: false
 draft: false

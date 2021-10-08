@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2021-10-07T20:20:15.778892Z'
 publication_types:
-- '3'
+- '1'
 abstract: 'This paper explores the potential role of the incremental planning of speech in interfering with the
 conditioning of the variable contraction of English *is*. Previous research has found that a variable alternation
 which is conditioned by the nature of the element that follows it can have this conditioning disrupted when a
