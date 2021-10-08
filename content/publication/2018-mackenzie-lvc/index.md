@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Variable stem-final fricative voicing in American English plurals: Different
-  pa[ð $∼$ θ]s of change'
+  pa[ð ∼ θ]s of change'
 subtitle: ''
 summary: ''
 authors:
