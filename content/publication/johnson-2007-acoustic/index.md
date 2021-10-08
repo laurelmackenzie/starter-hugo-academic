@@ -50,7 +50,7 @@ nasalized vowels. In the first and second experiments, we embedded recorded toke
 synthesized 'placeless' nasals by repeating pitch periods from the nasalized vowel to replace the final
 consonant in CVm with nasalized vowel. These stimuli provide a direct test of Ohala's acoustic
 explanation of coda velarity in nasals. The third and fourth experiments extended these results with
-tokens in which the last portion of CVN (N = /m/, /n/, or /ŋ/) and C̃) syllables were obscured with
+tokens in which the last portion of CVN (N = /m/, /n/, or /ŋ/) and Cx̃ syllables were obscured with
 masking noise. These experiments were designed to force listeners to assume the existence of a final
 consonant and to rely primarily on visual cues in a more direct test of the visual similarity of nasalized
 vowels and velar nasals. Taken together, the results of these four experiments suggest that excrescent
