@@ -33,5 +33,5 @@ publishDate: '2021-10-07T20:20:17.199468Z'
 publication_types:
 - '1'
 abstract: "We investigate social evaluation of the verb-particle alternation in English (e.g. *I took the trash out* ~ *I took out the trash*). Kroch and Small (1978) find that radio show hosts use the verb-particle-object order more than their guests, presumably to adhere to prescriptive norms disfavoring sentence-final prepositions. Our perception study, which employs Labov et al.'s (2011) newscaster paradigm, assesses this claim. Newscasters produced either the verb-particle-object order or the verb-object-particle order sentence-finally, although ratings between these two conditions did not differ significantly. This suggests that, despite Kroch and Small’s findings, listeners do not socially evaluate this alternation in perception."
-publication: ''
+publication: 'LSA 2019 Annual Meeting'
 ---
