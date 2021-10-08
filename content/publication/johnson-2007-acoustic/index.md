@@ -39,6 +39,22 @@ in the southwestern part of France (Midi French) is characterized by words endin
 where Parisian French has nasalized vowels and no final nasal consonant ([savɔ̃]~[savɔŋ] 'soap'). More
 generally, there is a cross-linguistic tendency for the unmarked place of articulation for coda nasals, and
 perhaps also for stops, to be velar. In four experiments, we explored why the cross-linguistically
-unmarked place for the excrescent nasal is velar. The experiments test Ohala's"
+unmarked place for the excrescent nasal is velar. The experiments test Ohala's (1975) acoustic
+explanation: that velar nasals, having no oral antiformants, are acoustically more similar to nasalized
+vowels than are bilabial or alveolar nasals. The experiments also tested an explanation based on the visual
+phonetics of nasalized vowels and velar nasals: velar nasals having no visible consonant articulation are
+visually more similar to nasalized vowels than are bilabial or alveolar nasals. American English listeners
+gave place of articulation judgments for audio-only and audio-visual tokens ending in nasal consonants or
+nasalized vowels. In the first and second experiments, we embedded recorded tokens of CVN (N = /m/,
+/n/, or /ŋ/) words in masking noise and presented them in audio-only and audio-visual trials. We also
+synthesized 'placeless' nasals by repeating pitch periods from the nasalized vowel to replace the final
+consonant in CVm with nasalized vowel. These stimuli provide a direct test of Ohala's acoustic
+explanation of coda velarity in nasals. The third and fourth experiments extended these results with
+tokens in which the last portion of CVN (N = /m/, /n/, or /ŋ/) and C̃) syllables were obscured with
+masking noise. These experiments were designed to force listeners to assume the existence of a final
+consonant and to rely primarily on visual cues in a more direct test of the visual similarity of nasalized
+vowels and velar nasals. Taken together, the results of these four experiments suggest that excrescent
+coda nasals tend to be velar because nasalized vowels are both acoustically and visually similar to velar
+nasals."
 publication: '*UC Berkeley PhonLab Annual Report 3*'
 ---
