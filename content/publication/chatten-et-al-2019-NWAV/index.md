@@ -37,7 +37,7 @@ projects: []
 publishDate: '2021-10-07T20:20:17.544898Z'
 publication_types:
 - '1'
-abstract: 'xSome English verbs use distinct forms for the preterite (\"I broke the door\") and the past participle (\"I’ve broken the door\"). These verbs may variably
+abstract: 'Some English verbs use distinct forms for the preterite (\"I broke the door\") and the past participle (\"I’ve broken the door\"). These verbs may variably
 show paradigm leveling, where the preterite form is used in place of the participle (\"I’ve broke the door\"). We contribute the first detailed variationist study of participle leveling by investigating the phenomenon in three
 corpora: Switchboard, a corpus of 10-minute telephone conversations between American English speakers
 (Godfrey & Holliman 1997); the Philadelphia Neighborhood Corpus, a corpus of sociolinguistic interviews with
