@@ -46,5 +46,5 @@ Scots). We also observe occasional problems with phonetic transcription. Overall
 forced alignment software is highly reliable and improving continuously, human confirmation is needed to
 correct errors which can displace entire stretches of speech. Nevertheless, sociolinguists can be assured that
 the output of these tools is generally highly accurate for a wide range of varieties.'
-publication: '*Linguistics Vanguard*'
+publication: '*Linguistics Vanguard* 6(s1):1–14'
 ---
