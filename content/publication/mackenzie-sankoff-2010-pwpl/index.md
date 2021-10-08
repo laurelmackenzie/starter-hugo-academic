@@ -42,8 +42,7 @@ samples from the 1971 and 1984 Montreal corpora, with four speakers sampled per 
 picture of the community as a whole. We find that four vowels show significant lowering and/or backing
 in the community, and that all long vowels show decreased diphthongization. Some panel speakers’
 longitudinal movements mirror these changes, while other speakers are stable across their lifespans and
-still others show apparently anomalous movements. We discuss these results and their interpretation.
-This'
+still others show apparently anomalous movements. We discuss these results and their interpretation.'
 publication: '*University of Pennsylvania Working Papers in Linguistics 15.2: Selected
   Papers from NWAV 37*'
 ---
