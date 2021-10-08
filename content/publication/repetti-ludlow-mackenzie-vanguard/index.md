@@ -9,11 +9,6 @@ authors:
 - Chiara Repetti-Ludlow
 - Laurel MacKenzie
 tags:
-- '"acquisition"'
-- '"fricative voicing"'
-- '"morphological variation"'
-- '"morphological change"'
-- '"plural"'
 categories: []
 date: To appear-01-01
 lastmod: 2021-10-07T16:20:18-04:00
