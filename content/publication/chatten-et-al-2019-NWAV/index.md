@@ -14,10 +14,8 @@ authors:
 - Dan Duncan
 - Laurel MacKenzie
 tags:
-- '"morphological variation"'
-- '"participle leveling"'
 categories: []
-date: '2019-01-01'
+date: '2019-10-11'
 lastmod: 2021-10-07T16:20:17-04:00
 featured: false
 draft: false
@@ -38,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-10-07T20:20:17.544898Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
 publication: ''
 ---
