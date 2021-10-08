@@ -1,6 +1,5 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-draft: true
 title: "Regularization in the face of variable input: Children's acquisition of stem-final\
   \ fricative plurals in American English"
 subtitle: ''
@@ -13,7 +12,7 @@ categories: []
 date: 2022-01-01
 lastmod: 2021-10-07T16:20:18-04:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
