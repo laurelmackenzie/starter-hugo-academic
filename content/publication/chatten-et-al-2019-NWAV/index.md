@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "*I've always spoke(n) like this, you see*: Participle leveling in three\
+title: ""I've always spoke(n) like this, you see": Participle leveling in three\
   \ corpora of English"
 subtitle: ''
 summary: ''
