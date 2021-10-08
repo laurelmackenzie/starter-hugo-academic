@@ -7,11 +7,8 @@ summary: ''
 authors:
 - Laurel MacKenzie
 tags:
-- '"contraction"'
-- '"locating variation"'
-- '"morphological variation"'
 categories: []
-date: '2012-01-01'
+date: '2012-08-01'
 lastmod: 2021-10-07T16:20:15-04:00
 featured: false
 draft: false
