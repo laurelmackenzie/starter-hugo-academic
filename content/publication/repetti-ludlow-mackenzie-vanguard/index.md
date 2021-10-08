@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+draft: true
 title: "Regularization in the face of variable input: Children's acquisition of stem-final\
   \ fricative plurals in American English"
 subtitle: ''
