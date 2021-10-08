@@ -37,8 +37,8 @@ to probability-match variable phenomena. However, it is still unclear how childr
 that are both irregular and variable. Does their tendency to overregularize take over, leading them to
 seize on the regular occurrences and produce them at an even higher rate than adults, or do children
 probability-match in these cases? In order to study this question, we turn to the variably-voiced plurals
-of English nouns that end in a voiceless fricative, like leaves, houses, and paths. We find that children
-seem to probability-match for /s/ and /θ/-final stems (e.g. houses, paths), but not for /f/-final stems (e.g.
-leaves). This finding has implications for our understanding of first language acquisition, and how learners acquire words with multiple processing requirements.'
+of English nouns that end in a voiceless fricative, like *leaves, houses,* and *paths*. We find that children
+seem to probability-match for /s/ and /θ/-final stems (e.g. *houses, paths*), but not for /f/-final stems (e.g.
+*leaves*). This finding has implications for our understanding of first language acquisition, and how learners acquire words with multiple processing requirements.'
 publication: '*Linguistics Vanguard*'
 ---
