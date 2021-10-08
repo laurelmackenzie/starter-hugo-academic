@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "``I've always spoke(n) like this, you see\\\": Participle leveling in three\
-  \ corpora of English"
+title: "``I've always spoke(n) like this, you see": Participle leveling in three corpora of English"
 subtitle: ''
 summary: ''
 authors:
@@ -13,11 +12,8 @@ authors:
 - Guy Tabachnick
 - Dan Duncan
 - Laurel MacKenzie
-tags:
-- '"morphological variation"'
-- '"participle leveling"'
 categories: []
-date: '2019-01-01'
+date: '2019-10-11'
 lastmod: 2021-10-07T16:20:17-04:00
 featured: false
 draft: false
@@ -36,9 +32,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-07T20:20:17.544898Z'
 publication_types:
-- '3'
+- '1'
 abstract: ''
-publication: ''
+publication: 'NWAV 48, University of Oregon (poster)'
 ---
