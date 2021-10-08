@@ -1,5 +1,6 @@
 ---
-title: Papers, presentations, and posters
+title: Publications
+subtitle: (and selected talks/posters)
 cms_exclude: true
 
 # View.
