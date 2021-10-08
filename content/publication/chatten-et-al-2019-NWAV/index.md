@@ -48,5 +48,5 @@ corpora: Switchboard, a corpus of 10-minute telephone conversations between Amer
 Philadelphians (Labov & Rosenfelder 2011); and the Diachronic Electronic Corpus of Tyneside English, a corpus
 of sociolinguistic interviews with residents of the North East of England (Corrigan et al. 2012). We find a striking
 degree of similarity between the three corpora in the constraints on variation. The general picture is of sociallyevaluated variation affected by both syntactic and paradigmatic factors.'
-publication: 'NWAV 48, University of Oregon'
+publication: 'NWAV 48, University of Oregon (poster)'
 ---
