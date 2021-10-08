@@ -37,7 +37,7 @@ projects: []
 publishDate: '2021-10-07T20:20:17.544898Z'
 publication_types:
 - '1'
-abstract: | 'Some English verbs use distinct forms for the preterite (1) and the past participle (2). These verbs may variably
+abstract: 'Some English verbs use distinct forms for the preterite (1) and the past participle (2). These verbs may variably
 show paradigm leveling, where the preterite form is used in place of the participle (3).
 
 (1) I broke the door. (2) I’ve broken the door. (3) I’ve broke the door.
