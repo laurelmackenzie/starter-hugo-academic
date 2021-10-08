@@ -44,5 +44,5 @@ these new distinctions are worth attending to because they have consequences for
 existing accounts of the basic morphological effect. In each case, we show that the
 existing accounts do not straightforwardly capture the additional significant distinctions
 we identify, calling the explanatory power of those accounts into question.'
-publication: '*Language Variation and Change*'
+publication: '*Language Variation and Change* 28(3):335–356'
 ---
