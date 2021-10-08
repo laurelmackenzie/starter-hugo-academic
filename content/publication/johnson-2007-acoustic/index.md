@@ -33,12 +33,12 @@ projects: []
 publishDate: '2021-10-08T15:44:44.990329Z'
 publication_types:
 - '1'
-abstract: 'One common historical development in languages with distinctively nasalized vowels is the
+abstract: "One common historical development in languages with distinctively nasalized vowels is the
 excrescence of coda velar nasals in place of nasalized vowels. For example, the dialect of French spoken
 in the southwestern part of France (Midi French) is characterized by words ending in the velar nasal [ŋ]
-where Parisian French has nasalized vowels and no final nasal consonant ([savɔ̃]~[savɔŋ] "soap"). More
+where Parisian French has nasalized vowels and no final nasal consonant ([savɔ̃]~[savɔŋ] 'soap'). More
 generally, there is a cross-linguistic tendency for the unmarked place of articulation for coda nasals, and
 perhaps also for stops, to be velar. In four experiments, we explored why the cross-linguistically
-unmarked place for the excrescent nasal is velar. The experiments test '
+unmarked place for the excrescent nasal is velar. The experiments test Ohala's"
 publication: '*UC Berkeley PhonLab Annual Report 3*'
 ---
