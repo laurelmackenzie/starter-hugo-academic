@@ -1,5 +1,5 @@
 ---
-title: Do I really need a title?
+title:
 
 # Summary for listings and search engines
 summary: 
@@ -32,4 +32,4 @@ tags:
 categories:
 ---
 
-Just published, in *Language Variation and Change*: [https://laurel-mackenzie.netlify.app/publication/2021-mackenzie-tamminga/](New and old puzzles in the morphological conditioning of coronal stop deletion), with [http://www.meredithtamminga.com/](Meredith Tamminga).
+Just published, in *Language Variation and Change*: [New and old puzzles in the morphological conditioning of coronal stop deletion](https://laurel-mackenzie.netlify.app/publication/2021-mackenzie-tamminga/), with [Meredith Tamminga](http://www.meredithtamminga.com/).
