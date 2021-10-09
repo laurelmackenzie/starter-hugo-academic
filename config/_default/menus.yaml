@@ -7,9 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publications
+    url: '/publications'
+    weight: 20
   - name: CV
     url: 'https://www.dropbox.com/s/koya6jntn83v6sv/MacKenzie_CV.pdf?dl=0'
-    weight: 20    
+    weight: 30
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
