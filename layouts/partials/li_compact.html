@@ -35,12 +35,12 @@
       {{ if site.Params.links_title }} <!-- Create a link on the publication title -->
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
 {{ else }}
-    <a itemprop="name">{{ .Title }}</a>.
+    <a itemprop="name">{{ .Title }}</a>
 {{ end }}
     </div>
 
     {{ with $summary }}
-    <a class="summary-link">
+    <a>
       <div class="article-style">
         {{.}}
       </div>
