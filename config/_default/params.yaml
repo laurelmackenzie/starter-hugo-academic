@@ -91,9 +91,9 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
-  publication: true
+  publication: false
   event: true
 reading_time: false
 section_pager: false
@@ -117,6 +117,7 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+links_title: false
 breadcrumb:
   page_types:
     book: true
