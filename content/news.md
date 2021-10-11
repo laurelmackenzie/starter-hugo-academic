@@ -7,11 +7,11 @@ title: "News"
 math: true
 summary: """
 #List of news.
-"""
+#"""
 
-header:
-image: ""
-caption: ""
+#header:
+#image: ""
+#caption: ""
 
 ---
 
