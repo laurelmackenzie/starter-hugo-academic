@@ -50,4 +50,4 @@ advanced:
  #css_class = ""
 ---
 
-{{< readfromfile "/content/newslist.dat" 5 >}} 
+{{% readfromfile "/content/newslist.dat" 5 %}}
