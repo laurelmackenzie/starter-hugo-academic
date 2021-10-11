@@ -34,12 +34,15 @@
     <div class="section-subheading article-title mb-0 mt-0">
     </div>
 
+    <article class="article">
+      <div class="article-container">
     {{ with $summary }}
       <div class="article-style">
         {{.}}
       </div>
     {{ end }}
-
+        </div>
+</article>
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "event" }}
