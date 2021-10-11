@@ -3,9 +3,9 @@ date: 2017-12-01
 lastmod: 2017-12-01
 draft: false
 tags: []
-title: "News"
+title: 'News'
 math: true
-summary: """
+summary: 'summary'
 #List of news.
 #"""
 
