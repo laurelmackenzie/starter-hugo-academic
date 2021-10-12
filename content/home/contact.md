@@ -29,5 +29,5 @@ content:
 #      captcha: false
   
 design:
-  columns: '4'
+  columns: '2'
 ---
