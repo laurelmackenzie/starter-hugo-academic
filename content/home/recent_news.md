@@ -12,4 +12,4 @@ design:
   columns: '2'
 ---
 
-{{< readfromfile "/content/newslist.dat" 5 >}} 
+Blah
