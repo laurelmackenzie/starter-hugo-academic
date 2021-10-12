@@ -7,4 +7,4 @@
 {{ $filestr := first $lines (after 0 $filestr) }}
 {{/* Delimit by newline */}}
 {{ $filestr := delimit $filestr "\n\n" }}
-{{ $filestr | .RenderString }}
+{{ $filestr | markdownify }}
