@@ -5,7 +5,7 @@ active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Recent news
-subtitle: See all
+subtitle: "[See all](/news)"
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
