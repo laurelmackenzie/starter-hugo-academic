@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Morphological and syntactic variation
+- Phonological, morphological, and syntactic variation
 - Regional varieties of British and American English
 - Language change across the lifespan
 
