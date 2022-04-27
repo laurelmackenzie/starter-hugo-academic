@@ -9,11 +9,11 @@ authors:
 - Laurel MacKenzie
 tags:
 categories: []
-date: 2022-01-01
+doi: https://doi.org/10.1515/lingvan-2021-0064
+date: '2022-04-27'
 lastmod: 2021-10-07T16:20:18-04:00
 featured: false
-draft: true
-doi: 
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
