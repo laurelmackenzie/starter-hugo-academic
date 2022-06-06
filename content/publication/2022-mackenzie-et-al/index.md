@@ -13,7 +13,7 @@ date: 2022-06-06
 lastmod: 2021-10-07T16:20:18-04:00
 featured: false
 draft: false
-doi: 
+doi: https://doi.org/10.1017/jlg.2022.2
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
