@@ -43,5 +43,5 @@ abstract: 'This paper presents the results of a survey of phonological, lexical,
  isoglosses for individual phones. We find evidence for both stability and change; we
  document previously unverified patterns. Perhaps most importantly, we identify a number
  of directions for future research.'
-publication: '*Journal of Linguistic Geography*'
+publication: '*Journal of Linguistic Geography* 10(1):46–66'
 ---
