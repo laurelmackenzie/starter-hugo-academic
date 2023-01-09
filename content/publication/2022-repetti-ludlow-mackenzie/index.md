@@ -1,5 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Regularization in the face of variable input: Children's acquisition of stem-final\
   \ fricative plurals in American English"
 subtitle: ''
@@ -40,5 +41,5 @@ probability-match in these cases? In order to study this question, we turn to th
 of English nouns that end in a voiceless fricative, like *leaves, houses,* and *paths*. We find that children
 seem to probability-match for /s/ and /θ/-final stems (e.g. *houses, paths*), but not for /f/-final stems (e.g.
 *leaves*). This finding has implications for our understanding of first language acquisition, and how learners acquire words with multiple processing requirements.'
-publication: '*Linguistics Vanguard*'
+publication: '*Linguistics Vanguard* 8(1):249--261'
 ---
