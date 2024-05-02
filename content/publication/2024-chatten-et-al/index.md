@@ -5,6 +5,12 @@ title: "I’ve always spoke like this, you see: Participle leveling in three cor
 subtitle: ''
 summary: ''
 authors:
+- Alicia Chatten
+- Kimberley Baxter
+- Erwanne Mas
+- Jailyn Peña
+- Guy Tabachnick
+- Daniel Duncan
 - Laurel MacKenzie
 tags:
 categories: []
