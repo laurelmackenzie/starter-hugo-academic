@@ -5,7 +5,7 @@ title: "I’ve always spoke like this, you see: Participle leveling in three cor
 subtitle: ''
 summary: ''
 authors:
--Alicia Chatten
+- Laurel MacKenzie
 tags:
 categories: []
 doi: https://doi.org/10.1215/00031283-9940654
