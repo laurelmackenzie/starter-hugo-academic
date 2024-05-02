@@ -6,12 +6,6 @@ subtitle: ''
 summary: ''
 authors:
 -Alicia Chatten
--Kimberley Baxter
--Erwanne Mas
--Jailyn Peña
--Guy Tabachnick
--Daniel Duncan
--Laurel MacKenzie
 tags:
 categories: []
 doi: https://doi.org/10.1215/00031283-9940654
