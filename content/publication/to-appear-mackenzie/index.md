@@ -9,7 +9,7 @@ authors:
 tags:
 categories: []
 doi: https://doi.org/10.1215/00031283-9940654
-date: '2025-02-12'
+date: 'to appear'
 lastmod: 2021-10-07T16:20:18-04:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-10-07T20:20:18.050671Z'
 publication_types:
-- '2'
+- '6'
 abstract: 'Few lifespan studies capture their speaker using more than one style, despite the
 potential benefits of doing so. Multi-style longitudinal data can help disentangle lifespan change
 from style-shifting; it can shed light on how older speakers use socially meaningful variants; and
