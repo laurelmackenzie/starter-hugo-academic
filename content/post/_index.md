@@ -1,6 +1,7 @@
 ---
 title: Posts
-cms_exclude: true
+draft: true
+share: false
 
 # View.
 #   1 = List

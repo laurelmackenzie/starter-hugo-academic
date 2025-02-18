@@ -1,6 +1,7 @@
 ---
 title: Recent & Upcoming Talks
-cms_exclude: true
+draft: true
+share: false
 
 # View.
 #   1 = List
