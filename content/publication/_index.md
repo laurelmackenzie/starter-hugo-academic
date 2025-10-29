@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: (and selected talks/posters)
+subtitle:
 cms_exclude: true
 
 # View.
