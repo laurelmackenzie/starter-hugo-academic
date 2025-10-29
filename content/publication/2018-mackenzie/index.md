@@ -31,6 +31,6 @@ publishDate: '2021-10-07T20:20:17.017597Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Data Collection in Sociolinguistics: Methods and Applications*, ed. Christine Mallinson, Becky Childs and
+publication: 'In *Data Collection in Sociolinguistics: Methods and Applications*, ed. Christine Mallinson, Becky Childs and
 Gerard Van Herk, 151–153'
 ---
