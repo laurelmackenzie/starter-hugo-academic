@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Test title
+title: 'Both (of) the variant show a couple (of) different patterns: Social conditioning of *of*-variation across multiple linguistic environments'
 subtitle: ''
 summary: ''
 authors:
