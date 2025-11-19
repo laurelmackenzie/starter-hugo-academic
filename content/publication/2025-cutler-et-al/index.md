@@ -1,15 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spelling out grammatical variation
+title: Both (of) the variants show a couple (of) different patterns: Social conditioning of *of*-variation across multiple linguistic environments
 subtitle: ''
 summary: ''
 authors:
+- Molly Cutler
+- Auromita (Disha) Mitra
+- Marc Barnard
+- Jessica Gobel
 - Laurel MacKenzie
-- Mary Robinson
 tags:
 categories: []
-date: 2025-10-29
+date: '2025-11-19'
 featured: false
 draft: false
 
@@ -27,8 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2025-11-19T20:20:16.135650Z'
 publication_types:
-- '6'
-abstract: 'This chapter revisits a long tradition of literature that proposes that grammatical variables are unlikely to be used for social functions, and submits these proposals to a rigorous test. We carry out a meta-study of two sociolinguistics journals, searching for evidence of grammatical variables carrying social significance. We follow previous work to objectively identify and subcategorize grammatical variables into two types. We find robust evidence that one of the two types can be socially meaningful in a variety of ways. Evidence for the other type is much harder to find. However, this absence of evidence is largely due to a dearth of targeted research on the question. This empirical gap opens up a new research program.'
-publication: 'In *English Sociosyntax: Theory, Evidence, Approaches*, ed. Daniel Duncan and Mary Robinson, 59–95'
+- '1'
+abstract: "A longstanding question in sociolinguistics is whether the social patterning of a variant is consistent across linguistic environments. It is traditionally assumed that language-external (i.e. social) factors do not interact with language-internal factors (characteristics of the linguistic environment surrounding the varying item) in the conditioning of variation (Labov 1993, Labov 2001:28, Labov 2010:265), but this has largely gone untested with modern statistical methods and large data sets. In this paper, we report on a study of a single variable alternation in English — between 'of' and zero, henceforth "'of'-variation" — that is instantiated in several distinct linguistic environments. We find that its social patterning differs by environment, suggesting a counterexample to the proposed independence of external and internal conditioning factors."
+publication: '*University of Pennsylvania Working Papers in Linguistics 31.2: Selected
+  Papers from NWAV 52*, 60–69'
 ---
