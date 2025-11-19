@@ -33,5 +33,5 @@ projects: []
 publication_types:
 - '1'
 abstract: 'This chapter revisits a long tradition of literature that proposes that grammatical variables are unlikely to be used for social functions, and submits these proposals to a rigorous test. We carry out a meta-study of two sociolinguistics journals, searching for evidence of grammatical variables carrying social significance. We follow previous work to objectively identify and subcategorize grammatical variables into two types. We find robust evidence that one of the two types can be socially meaningful in a variety of ways. Evidence for the other type is much harder to find. However, this absence of evidence is largely due to a dearth of targeted research on the question. This empirical gap opens up a new research program.'
-publication: '*University of Pennsylvania Working Papers in Linguistics 31.2: Selected Papers from NWAV 52*, 60–69''
+publication: '*University of Pennsylvania Working Papers in Linguistics 31.2: Selected Papers from NWAV 52*, 60–69'
 ---
