@@ -5,6 +5,10 @@ title: Both (of) the variants show a couple (of) different patterns: Social cond
 subtitle: ''
 summary: ''
 authors:
+- Molly Cutler
+- Auromita (Disha) Mitra
+- Marc Barnard
+- Jessica Göbel
 - Laurel MacKenzie
 tags:
 categories: []
