@@ -32,6 +32,6 @@ image:
 projects: []
 publication_types:
 - '1'
-abstract: 'A longstanding question in sociolinguistics is whether the social patterning of a variant is consistent across linguistic environments. It is traditionally assumed that language-external (i.e. social) factors do not interact with language-internal factors (characteristics of the linguistic environment surrounding the varying item) in the conditioning of variation (Labov 1993, Labov 2001:28, Labov 2010:265), but this has largely gone untested with modern statistical methods and large data sets. '
+abstract: 'A longstanding question in sociolinguistics is whether the social patterning of a variant is consistent across linguistic environments. It is traditionally assumed that language-external (i.e. social) factors do not interact with language-internal factors (characteristics of the linguistic environment surrounding the varying item) in the conditioning of variation (Labov 1993, Labov 2001:28, Labov 2010:265), but this has largely gone untested with modern statistical methods and large data sets. In this paper, we report on a study of a single variable alternation in English -- between *of* and zero, henceforth "*of*-variation" -- that is instantiated in several distinct linguistic environments.'
 publication: '*University of Pennsylvania Working Papers in Linguistics 31.2: Selected Papers from NWAV 52*, 60–69'
 ---
