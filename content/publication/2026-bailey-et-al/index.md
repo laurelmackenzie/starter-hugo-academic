@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Lexical variation among mobile speakers: A case study of words for bread in the United Kingdom
+title: 'Lexical variation among mobile speakers: A case study of words for bread in the United Kingdom'
 subtitle: ''
 summary: ''
 authors:
