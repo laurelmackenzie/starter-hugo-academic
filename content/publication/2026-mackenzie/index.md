@@ -8,6 +8,7 @@ authors:
 - Laurel MacKenzie
 tags:
 categories: []
+doi: https://doi.org/10.4324/9781003357438-8
 date: 2026-01-01
 publishDate: 2025-12-18
 featured: false

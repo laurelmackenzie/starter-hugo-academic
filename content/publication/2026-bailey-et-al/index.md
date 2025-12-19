@@ -10,6 +10,7 @@ authors:
 - Danielle Turton
 tags:
 categories: []
+doi: https://doi.org/10.4324/9781003510581-4
 date: 2026-01-01
 publishDate: 2025-12-18
 featured: false
