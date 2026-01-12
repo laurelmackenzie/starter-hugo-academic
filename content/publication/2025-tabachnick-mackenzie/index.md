@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Flipping the 𝑜𝑛/𝑜𝑓𝑓 switch: Change in progress in the prepositional complements of verbs like 𝑏𝑎𝑠𝑒'
+title: 'Flipping the 𝘰𝘯/𝘰𝘧𝘧 switch: Change in progress in the prepositional complements of verbs like 𝘣𝘢𝘴𝘦'
 subtitle: ''
 summary: ''
 authors:
