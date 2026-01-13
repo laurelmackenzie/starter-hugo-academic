@@ -10,7 +10,7 @@ authors:
 tags:
 categories: []
 doi: https://doi.org/10.1515/9783111426280-003
-date: 2026-01-01
+date: 2025-10-29
 publishDate: 2025-10-29
 featured: false
 draft: false
